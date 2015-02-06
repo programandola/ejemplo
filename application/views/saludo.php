@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<p>Hola Mundo desde la vista saludo !!!</p>
+<p>Hola Mundo desde la vista saludo trabajando con git hub !!!</p>
 <?php
 echo $titulo;
 ?>
